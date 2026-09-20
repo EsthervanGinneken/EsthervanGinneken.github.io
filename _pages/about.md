@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Research agenda
-
 I am an Associate Professor in Criminology in the Netherlands.
 
 My research focusses on safety, violence and social relations in prisons, with particular attention to the experiences of incarcerated individuals and staff.
