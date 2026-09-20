@@ -23,7 +23,7 @@ repository               : "EsthervanGinneken/EsthervanGinneken.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Esther van Ginneken"
   pronouns         : "she/her" 
   bio              : "Associate Professor in Criminology"
