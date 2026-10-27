@@ -157,7 +157,7 @@
     max-width: 175px;
      max-height: 230px;
      object-fit: cover;
-    border-radius: 0%;
+    border-radius: 4%;
 
     @include breakpoint($large) {
       padding: 5px;
